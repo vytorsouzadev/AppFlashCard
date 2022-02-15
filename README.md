@@ -2,4 +2,4 @@
 # ------------   APP FLASH CARD    ---------------
 --------------------------------------------------
 
-<li><a href="/portifolio">clique Para JOGar</a></li>
+<li><a href="/portifolio">Voltar Para Home</a></li>
