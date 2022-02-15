@@ -7,7 +7,9 @@
     <title> App Flash Card</title>
 </head>
 <body>
-    <h1>lista de projetos</h1>
-    <li><a href="/portifolio">Voltar Para Home</a></li>
+    <div style="max-width:800px;width:100%;display: flex;justify-content: center;flex-direction: column;align-items: center;margin: 0 auto;">
+        <h1>lista de projetos</h1>
+        <li><a href="/portifolio">Voltar Para Home</a></li>
+    </div>
 </body>
 </html>
